@@ -1,0 +1,11 @@
+date,state,district,pincode,age_5_17_demo,age_17_plus_demo,age_0_5,age_5_17_enroll,age_17_plus_enroll,age_5_17,age_17_plus,enroll_rate_5_17,enroll_rate_17_plus,bio_completion_5_17,bio_completion_17_plus,low_enrollment_flag,biometric_gap_flag,priority_score
+2026-01-03,Tamil Nadu,Coimbatore,642205,0,2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,True,True,1.0
+2025-03-01,Tamil Nadu,Coimbatore,638459,13,213,0.0,0.0,0.0,26.0,78.0,0.0,0.0,0.0,0.0,True,True,1.0
+2025-03-01,Tamil Nadu,Coimbatore,641001,49,785,0.0,0.0,0.0,354.0,870.0,0.0,0.0,0.0,0.0,True,True,1.0
+2025-03-01,Tamil Nadu,Coimbatore,641004,54,450,0.0,0.0,0.0,167.0,357.0,0.0,0.0,0.0,0.0,True,True,1.0
+2025-03-01,Tamil Nadu,Coimbatore,641005,42,295,0.0,0.0,0.0,78.0,271.0,0.0,0.0,0.0,0.0,True,True,1.0
+2025-03-01,Tamil Nadu,Coimbatore,641006,71,821,0.0,0.0,0.0,340.0,624.0,0.0,0.0,0.0,0.0,True,True,1.0
+2026-01-03,Tamil Nadu,Coimbatore,641669,1,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,True,True,1.0
+2026-01-03,Tamil Nadu,Coimbatore,641659,2,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,True,True,1.0
+2026-01-03,Tamil Nadu,Coimbatore,641658,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,1.0
+2026-01-03,Tamil Nadu,Coimbatore,641402,0,3,0.0,0.0,0.0,5.0,6.0,0.0,0.0,0.0,0.0,True,True,1.0
